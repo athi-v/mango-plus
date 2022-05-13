@@ -1,6 +1,6 @@
 <h1>Hi 👋🏽</h1>
 
-Mongo+ is a movie website
+Mango+ is a movie website
 
 More features will be added such as
 <ul> 
