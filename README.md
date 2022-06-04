@@ -2,10 +2,6 @@
 
 Mango+ is a movie website
 
-More features will be added such as
-<ul> 
-<li>sign in/up </li>
-<li>add favorites </li>
-</ul>
+Sign up/in, add🖤 movies to your watchlist
  
 <b>ReactJs + Frontend </b>
